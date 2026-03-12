@@ -1,0 +1,131 @@
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #2a90bf;
+  --md-primary-fg-color--light: #59abd2;
+  --md-primary-fg-color--dark: #1f6f94;
+  --md-accent-fg-color: #c57b30;
+  --md-accent-fg-color--transparent: rgba(197, 123, 48, 0.14);
+  --md-default-fg-color: #1b2630;
+  --md-default-fg-color--light: #495763;
+  --md-default-fg-color--lighter: #6b7883;
+  --md-default-bg-color: #ffffff;
+  --md-default-bg-color--light: #f5f8fa;
+  --md-typeset-a-color: #1f6f94;
+  --lms-support-green: #6c9f4a;
+  --lms-surface: #f4f8fa;
+  --lms-border: #d7e2e9;
+}
+
+.md-header {
+  box-shadow: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 1.8rem;
+  width: 1.8rem;
+}
+
+.md-tabs {
+  background-color: #247ea8;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:focus,
+.md-tabs__link:hover {
+  color: #fff7ef;
+}
+
+.md-main {
+  background-color: var(--md-default-bg-color--light);
+}
+
+.md-content__inner,
+.md-sidebar__scrollwrap {
+  background: transparent;
+}
+
+.md-typeset h1 {
+  color: #1f6f94;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset h2 {
+  border-bottom: 1px solid var(--lms-border);
+  padding-bottom: 0.2rem;
+}
+
+.md-typeset a:hover {
+  color: #c57b30;
+}
+
+.md-nav__link--active,
+.md-nav__link:active {
+  color: #1f6f94;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border: 1px solid var(--lms-border);
+  box-shadow: none;
+}
+
+.md-typeset table:not([class]) {
+  border: 1px solid var(--lms-border);
+  border-radius: 0.25rem;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: rgba(42, 144, 191, 0.08);
+  color: #1b2630;
+}
+
+.md-typeset code {
+  background-color: rgba(42, 144, 191, 0.08);
+}
+
+.md-typeset .md-button {
+  border-radius: 0.25rem;
+}
+
+.md-typeset .md-button--primary {
+  background-color: #2a90bf;
+  border-color: #2a90bf;
+}
+
+.md-typeset .md-button--primary:hover,
+.md-typeset .md-button--primary:focus {
+  background-color: #1f6f94;
+  border-color: #1f6f94;
+}
+
+.lms-home-brand {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 0 1.5rem;
+  padding: 1rem 1.1rem;
+  background: #ffffff;
+  border: 1px solid var(--lms-border);
+  border-left: 4px solid var(--lms-support-green);
+  border-radius: 0.35rem;
+}
+
+.lms-home-brand img {
+  width: 88px;
+  height: 88px;
+  flex: 0 0 auto;
+}
+
+.lms-home-brand p {
+  margin: 0.25rem 0 0;
+  color: var(--md-default-fg-color--light);
+}
+
+@media screen and (max-width: 44.9375em) {
+  .lms-home-brand {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

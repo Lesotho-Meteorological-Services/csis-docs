@@ -6,6 +6,12 @@ site_author: CSIS Team
 theme:
   name: material
   language: en
+  logo: assets/images/lms-logo.svg
+  favicon: assets/images/lms-logo.svg
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
   features:
     - navigation.tabs
     - navigation.sections
@@ -15,11 +21,12 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
-  icon:
-    logo: material/weather-partly-cloudy
 
 plugins:
   - search
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -53,4 +60,3 @@ nav:
 extra:
   version:
     provider: mike
-

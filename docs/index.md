@@ -1,5 +1,13 @@
 # CSIS Documentation Portal
 
+<div class="lms-home-brand">
+  <img src="assets/images/lms-logo.svg" alt="Lesotho Meteorological Services logo">
+  <div>
+    <strong>Lesotho Meteorological Services</strong>
+    <p>Operational documentation for the Climate Services Information System, presented in a calm LMS-aligned visual style for everyday institutional use.</p>
+  </div>
+</div>
+
 Welcome to the **Climate Services Information System (CSIS)** documentation portal.
 
 This site contains:
