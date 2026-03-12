@@ -1,0 +1,56 @@
+site_name: CSIS Documentation Portal
+site_url: https://lesotho-meteorological-services.github.io/csis-docs/
+site_description: User and System Administrator Guide for the Climate Services Information System
+site_author: CSIS Team
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  icon:
+    logo: material/weather-partly-cloudy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - fenced_code
+  - attr_list
+  - def_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+
+nav:
+  - Home: index.md
+
+  - User Guide:
+      - user-guide/index.md
+      - Getting Started: user-guide/getting-started.md
+
+  - System Administrator Guide:
+      - admin-guide/index.md
+      - Installation: admin-guide/installation.md
+      - Operations: admin-guide/operations.md
+
+  - Operational Workflows:
+      - operations/index.md
+      - Forecast Workflow: operations/forecast-workflow.md
+      - Warning Workflow: operations/warning-workflow.md
+
+extra:
+  version:
+    provider: mike
+
