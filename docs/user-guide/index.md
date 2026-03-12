@@ -12,3 +12,5 @@ This section provides practical guidance for everyday users of the platform, inc
 - review and approval workflows
 - publishing and dissemination support
 - good usage practices
+
+Detailed operational steps for forecast production are available in the [Forecast Workflow](../operations/forecast-workflow.md).

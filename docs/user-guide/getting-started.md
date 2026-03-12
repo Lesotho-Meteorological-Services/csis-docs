@@ -22,6 +22,8 @@ Typical user roles may include:
 5. Submit for review
 6. Publish or disseminate once approved
 
+For detailed task guidance, see the [Forecast Workflow](../operations/forecast-workflow.md).
+
 ## Good practices
 
 - Use the correct template for each product type
