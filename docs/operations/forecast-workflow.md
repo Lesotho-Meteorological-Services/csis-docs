@@ -78,7 +78,10 @@ Use this procedure to create a new weather or climate service product from an ap
 8. Review the content for accuracy and completeness.
 9. Save the product.
 
-![Product creation screen showing the File menu, target folder, New action, and template selection options.](../assets/images/screenshots/product-creation-screen.png)
+<figure class="doc-screenshot">
+  <img src="../assets/images/screenshots/product-creation-screen.png" alt="Product creation screen showing the File menu, target folder, New action, and template selection options.">
+  <figcaption>Product creation screen showing the File menu, target folder, New action, and template selection options.</figcaption>
+</figure>
 
 ### Output expectations
 
