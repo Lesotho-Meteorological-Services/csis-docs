@@ -79,7 +79,7 @@ Use this procedure to create a new weather or climate service product from an ap
 9. Save the product.
 
 <figure class="doc-screenshot">
-  <img src="../assets/images/screenshots/product-creation-screen.png" alt="Product creation screen showing the File menu, target folder, New action, and template selection options.">
+  <img src="../../assets/images/screenshots/product-creation-screen.png" alt="Product creation screen showing the File menu, target folder, New action, and template selection options.">
   <figcaption>Product creation screen showing the File menu, target folder, New action, and template selection options.</figcaption>
 </figure>
 
