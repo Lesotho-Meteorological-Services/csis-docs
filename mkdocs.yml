@@ -1,6 +1,6 @@
 site_name: CSIS Documentation Portal
 site_url: https://lesotho-meteorological-services.github.io/csis-docs/
-site_description: User and System Administrator Guide for the Climate Services Information System
+site_description: User Guide and System Administration documentation for the Climate Services Information System
 site_author: CSIS Team
 
 theme:
@@ -44,18 +44,16 @@ nav:
   - Home: index.md
 
   - User Guide:
-      - user-guide/index.md
+      - Overview: user-guide/index.md
       - Getting Started: user-guide/getting-started.md
+      - Operational Workflows:
+          - Forecast Workflow: operations/forecast-workflow.md
+          - Warning Workflow: operations/warning-workflow.md
 
-  - System Administrator Guide:
-      - admin-guide/index.md
+  - System Administration:
+      - Overview: admin-guide/index.md
       - Installation: admin-guide/installation.md
       - Operations: admin-guide/operations.md
-
-  - Operational Workflows:
-      - operations/index.md
-      - Forecast Workflow: operations/forecast-workflow.md
-      - Warning Workflow: operations/warning-workflow.md
 
 extra:
   version:

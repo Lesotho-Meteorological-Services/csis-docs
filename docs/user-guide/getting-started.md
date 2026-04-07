@@ -22,7 +22,7 @@ Typical user roles may include:
 5. Submit for review
 6. Publish or disseminate once approved
 
-For detailed task guidance, see the [Forecast Workflow](../operations/forecast-workflow.md).
+For detailed task guidance, continue to the operational workflow pages in the User Guide, including the [Forecast Workflow](../operations/forecast-workflow.md) and [Warning Workflow](../operations/warning-workflow.md).
 
 ## Good practices
 

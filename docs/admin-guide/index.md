@@ -1,6 +1,6 @@
-# System Administrator Guide
+# System Administration
 
-Welcome to the **System Administrator Guide** for the Climate Services Information System (CSIS).
+Welcome to the **System Administration** section for the Climate Services Information System (CSIS).
 
 This section is intended for technical administrators responsible for deployment, maintenance, support, and continuity of the documentation and related platform services.
 
