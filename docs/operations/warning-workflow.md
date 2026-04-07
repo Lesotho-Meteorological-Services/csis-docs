@@ -8,42 +8,42 @@ It is intended for operational users responsible for hazard monitoring, warning 
 
 <div class="workflow-grid">
   <a class="workflow-card" href="#before-you-begin">
-    <img src="../assets/images/icons/workflows/checklist.svg" alt="Preparation icon">
+    <img src="../../assets/images/icons/workflows/checklist.svg" alt="Preparation icon">
     <div>
       <strong>Before you begin</strong>
       <p>Confirm monitoring responsibilities, channels, and decision thresholds.</p>
     </div>
   </a>
   <a class="workflow-card" href="#trigger-a-warning-workflow">
-    <img src="../assets/images/icons/workflows/warning-trigger.svg" alt="Warning trigger icon">
+    <img src="../../assets/images/icons/workflows/warning-trigger.svg" alt="Warning trigger icon">
     <div>
       <strong>Trigger a warning workflow</strong>
       <p>Open the warning process when a credible hazard requires action.</p>
     </div>
   </a>
   <a class="workflow-card" href="#draft-and-quality-check-the-warning">
-    <img src="../assets/images/icons/workflows/warning-drafting.svg" alt="Drafting icon">
+    <img src="../../assets/images/icons/workflows/warning-drafting.svg" alt="Drafting icon">
     <div>
       <strong>Draft and quality check</strong>
       <p>Prepare the warning message and validate its content before approval.</p>
     </div>
   </a>
   <a class="workflow-card" href="#authorize-the-warning">
-    <img src="../assets/images/icons/workflows/approval-decision.svg" alt="Authorization icon">
+    <img src="../../assets/images/icons/workflows/approval-decision.svg" alt="Authorization icon">
     <div>
       <strong>Authorize the warning</strong>
       <p>Approve the message for operational release.</p>
     </div>
   </a>
   <a class="workflow-card" href="#disseminate-the-warning">
-    <img src="../assets/images/icons/workflows/dissemination.svg" alt="Dissemination icon">
+    <img src="../../assets/images/icons/workflows/dissemination.svg" alt="Dissemination icon">
     <div>
       <strong>Disseminate the warning</strong>
       <p>Release the approved warning through the required communication channels.</p>
     </div>
   </a>
   <a class="workflow-card" href="#complete-post-event-review-and-recordkeeping">
-    <img src="../assets/images/icons/workflows/review-records.svg" alt="Review and records icon">
+    <img src="../../assets/images/icons/workflows/review-records.svg" alt="Review and records icon">
     <div>
       <strong>Post-event review</strong>
       <p>Capture actions taken, outcomes, and records for future reference.</p>

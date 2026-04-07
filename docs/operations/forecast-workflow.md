@@ -8,42 +8,42 @@ It is intended for operational users involved in forecast production, especially
 
 <div class="workflow-grid">
   <a class="workflow-card" href="#before-you-begin">
-    <img src="../assets/images/icons/workflows/checklist.svg" alt="Preparation icon">
+    <img src="../../assets/images/icons/workflows/checklist.svg" alt="Preparation icon">
     <div>
       <strong>Before you begin</strong>
       <p>Confirm access, product context, templates, and workflow roles.</p>
     </div>
   </a>
   <a class="workflow-card" href="#create-a-product">
-    <img src="../assets/images/icons/workflows/create-product.svg" alt="Create product icon">
+    <img src="../../assets/images/icons/workflows/create-product.svg" alt="Create product icon">
     <div>
       <strong>Create a product</strong>
       <p>Prepare a new draft using the correct folder, product type, and template.</p>
     </div>
   </a>
   <a class="workflow-card" href="#conduct-a-weather-discussion">
-    <img src="../assets/images/icons/workflows/discussion.svg" alt="Discussion icon">
+    <img src="../../assets/images/icons/workflows/discussion.svg" alt="Discussion icon">
     <div>
       <strong>Conduct a weather discussion</strong>
       <p>Collaborate on the draft and agree on the final operational position.</p>
     </div>
   </a>
   <a class="workflow-card" href="#request-product-approval">
-    <img src="../assets/images/icons/workflows/approval-request.svg" alt="Approval request icon">
+    <img src="../../assets/images/icons/workflows/approval-request.svg" alt="Approval request icon">
     <div>
       <strong>Request product approval</strong>
       <p>Submit the finalized draft for formal approval.</p>
     </div>
   </a>
   <a class="workflow-card" href="#approve-or-reject-a-product">
-    <img src="../assets/images/icons/workflows/approval-decision.svg" alt="Approval decision icon">
+    <img src="../../assets/images/icons/workflows/approval-decision.svg" alt="Approval decision icon">
     <div>
       <strong>Approve or reject</strong>
       <p>Review, approve, or return the product with corrective feedback.</p>
     </div>
   </a>
   <a class="workflow-card" href="#good-practice">
-    <img src="../assets/images/icons/workflows/good-practice.svg" alt="Good practice icon">
+    <img src="../../assets/images/icons/workflows/good-practice.svg" alt="Good practice icon">
     <div>
       <strong>Good practice</strong>
       <p>Maintain consistency, traceability, and operational quality.</p>
