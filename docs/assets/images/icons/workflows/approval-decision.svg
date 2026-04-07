@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Approval decision icon</title>
+  <circle cx="22" cy="32" r="12" fill="#f4f8fa" stroke="#6c9f4a" stroke-width="3"/>
+  <path d="M16 32l4 4 8-9" fill="none" stroke="#6c9f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="46" cy="32" r="12" fill="#ffffff" stroke="#c57b30" stroke-width="3"/>
+  <path d="M41 27l10 10M51 27L41 37" stroke="#c57b30" stroke-width="3" stroke-linecap="round"/>
+</svg>

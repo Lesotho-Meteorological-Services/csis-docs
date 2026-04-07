@@ -4,6 +4,53 @@ This section describes the standard workflow for preparing, discussing, reviewin
 
 It is intended for operational users involved in forecast production, especially `Forecasters` and `Head of Operations/Director` approvers.
 
+## Workflow contents
+
+<div class="workflow-grid">
+  <a class="workflow-card" href="#before-you-begin">
+    <img src="../assets/images/icons/workflows/checklist.svg" alt="Preparation icon">
+    <div>
+      <strong>Before you begin</strong>
+      <p>Confirm access, product context, templates, and workflow roles.</p>
+    </div>
+  </a>
+  <a class="workflow-card" href="#create-a-product">
+    <img src="../assets/images/icons/workflows/create-product.svg" alt="Create product icon">
+    <div>
+      <strong>Create a product</strong>
+      <p>Prepare a new draft using the correct folder, product type, and template.</p>
+    </div>
+  </a>
+  <a class="workflow-card" href="#conduct-a-weather-discussion">
+    <img src="../assets/images/icons/workflows/discussion.svg" alt="Discussion icon">
+    <div>
+      <strong>Conduct a weather discussion</strong>
+      <p>Collaborate on the draft and agree on the final operational position.</p>
+    </div>
+  </a>
+  <a class="workflow-card" href="#request-product-approval">
+    <img src="../assets/images/icons/workflows/approval-request.svg" alt="Approval request icon">
+    <div>
+      <strong>Request product approval</strong>
+      <p>Submit the finalized draft for formal approval.</p>
+    </div>
+  </a>
+  <a class="workflow-card" href="#approve-or-reject-a-product">
+    <img src="../assets/images/icons/workflows/approval-decision.svg" alt="Approval decision icon">
+    <div>
+      <strong>Approve or reject</strong>
+      <p>Review, approve, or return the product with corrective feedback.</p>
+    </div>
+  </a>
+  <a class="workflow-card" href="#good-practice">
+    <img src="../assets/images/icons/workflows/good-practice.svg" alt="Good practice icon">
+    <div>
+      <strong>Good practice</strong>
+      <p>Maintain consistency, traceability, and operational quality.</p>
+    </div>
+  </a>
+</div>
+
 ## Before you begin
 
 Before starting the workflow, confirm that you:
@@ -12,6 +59,8 @@ Before starting the workflow, confirm that you:
 - know which folder or workspace should contain the product
 - have selected the correct product type and template
 - understand your role in the review and approval process
+
+It is good practice to confirm the daily operational schedule, expected product release time, and any supporting observations or datasets required before drafting begins.
 
 ## Create a product
 
@@ -31,6 +80,15 @@ Use this procedure to create a new weather or climate service product from an ap
 
 > Screenshot placeholder: Product creation screen showing the File menu, target folder, New action, and template selection options.
 
+### Output expectations
+
+At this stage, the product should:
+
+- be saved in the correct operational folder
+- use the approved template and naming convention
+- contain complete draft content for internal review
+- be ready for collaborative discussion or refinement
+
 ## Conduct a weather discussion
 
 Role: `Forecaster`
@@ -47,6 +105,15 @@ Use this procedure when a draft forecast needs collaborative discussion before i
 
 > Screenshot placeholder: Draft forecast open in the collaboration workspace with Talk messaging or video call options visible.
 
+### Discussion focus
+
+The discussion should normally confirm:
+
+- the main forecast message and expected impacts
+- consistency between maps, text, and supporting evidence
+- whether any wording requires clarification before approval
+- whether all required contributors have reviewed their sections
+
 ## Request product approval
 
 Role: `Forecaster`
@@ -59,6 +126,15 @@ After the forecast draft has been finalized internally, request formal approval 
 4. Confirm that the product status changes to show that approval is pending.
 
 > Screenshot placeholder: Product file context menu with Request Approval selected and the product status showing approval pending.
+
+### Before submitting
+
+Before requesting approval, confirm that:
+
+- the draft reflects the final agreed forecast position
+- formatting and spelling have been checked
+- any required attachments or supporting references are included
+- the correct approver is responsible for the product
 
 ## Approve or reject a product
 
@@ -75,9 +151,21 @@ Use this procedure to review submitted products and either approve them for the 
 
 > Screenshot placeholder: Notifications panel showing approval requests and the product review screen with Approve and Reject actions.
 
+### Approval decision guidance
+
+An approver should verify:
+
+- technical correctness and consistency of the forecast message
+- clarity of language for the intended audience
+- compliance with operational and institutional standards
+- readiness for publication or dissemination
+
+If a product is rejected, feedback should clearly identify what must be corrected before resubmission.
+
 ## Good practice
 
 - Use the correct template for each product type.
 - Save changes regularly during drafting and discussion.
 - Confirm the product status before proceeding to the next workflow stage.
 - Return rejected products with clear feedback so revisions can be made efficiently.
+- Keep records of significant changes made during review and approval.

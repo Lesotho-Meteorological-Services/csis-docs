@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Checklist icon</title>
+  <rect x="12" y="10" width="40" height="46" rx="8" fill="#f4f8fa" stroke="#2a90bf" stroke-width="3"/>
+  <path d="M22 24h20M22 34h20M22 44h14" stroke="#1f6f94" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18 23l2 2 4-5M18 33l2 2 4-5M18 43l2 2 4-5" fill="none" stroke="#6c9f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
